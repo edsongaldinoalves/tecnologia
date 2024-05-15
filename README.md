@@ -1,6 +1,6 @@
 # Olá, eu sou o Edson Galdino Alves 👋
 
-Sou um desenvolvedor autodidata apaixonado por tecnologia e inovação. Tenho conhecimentos em diversas linguagens e frameworks, como Java, Python, R, PHP, HTML, JavaScript, Django, Flask, etc. Também tenho experiência em instalação e manutenção de software e hardware, sistemas operacionais Windows e Linux, Kali Linux, Office 365, Power BI, banco de dados MySQL e PostgreSQL, redes de computadores, governança em TI, segurança da informação e modelagem de negócios. Estou sempre buscando aprender novas habilidades e me aprimorar na minha área.
+Sou um desenvolvedor autodidata apaixonado por tecnologia e inovação. Tenho conhecimentos em diversas linguagens e frameworks, como Java, Python, R, C++, C#, PHP, HTML, JavaScript, Django, Flask, etc. Também tenho experiência em instalação e manutenção de software e hardware, sistemas operacionais Windows e Linux, Kali Linux, Office 365, Power BI, banco de dados MySQL e PostgreSQL, redes de computadores, governança em TI, segurança da informação e modelagem de negócios. Estou sempre buscando aprender novas habilidades e me aprimorar na minha área.
 
 ## 🚀 Habilidades
 
