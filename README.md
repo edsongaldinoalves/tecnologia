@@ -19,9 +19,11 @@ Sou um desenvolvedor autodidata apaixonado por tecnologia e inovação. Tenho co
 ## 📚 Formação
 
 - Técnico de Contabilidade (Formado em dezembro/1990)
+- Universidade: UNIMEP: Ciência Economica (3 anos completos, porém o curso era de 5 anos então incompleto)
 - Universidade Anhembi Morumbi: Gestão da Tecnologia da Informação (Tecnólogo Completo)
 - Universidade Anhanguera: Business intelligence, big data e analytics – Ciência de Dados (Pós-graduação - Completo)
 - Universidade Anhanguera: Docência na Educação Profissional e Ensino Técnico (Pós-graduação- Completo)
+- Universidade Única: Licenciatura em Matemática (Segunda Graduação em Licenciatura em Matemática, data termino em 23/02/2025)
 
 ## 💼 Experiências
 
