@@ -28,7 +28,7 @@ Sou um desenvolvedor autodidata apaixonado por tecnologia e inovação. Tenho co
 ## 💼 Experiências
 
 - Banco de Crédito Nacional S/A (início 15/05/1987 à 19/12/1995) funções: Escriturário, Analista de Informática, Tributos e Arrecadações, Contabilidade e Caixa Executivo.
-- Galdinos Assessoria em Computadores & Redes Instalações e Manutenções em Software/Hardware, inicio em Janeiro/2020(Freelance).
+- Galdinos Assessoria em Computadores & Redes Instalações e Manutenções em Software/Hardware, inicio em 10 de Janeiro de 2020(até a data atual).
 - Senac  de Salto -sp : Docente dos cursos de Técnico de Internet e Pacote Office - ano 2023 (Freelance).
 
 ## 📫 Contatos
