@@ -23,12 +23,12 @@ Sou um desenvolvedor autodidata apaixonado por tecnologia e inovação. Tenho co
 - Universidade Anhembi Morumbi: Gestão da Tecnologia da Informação (Tecnólogo Completo)
 - Universidade Anhanguera: Business intelligence, big data e analytics – Ciência de Dados (Pós-graduação - Completo)
 - Universidade Anhanguera: Docência na Educação Profissional e Ensino Técnico (Pós-graduação- Completo)
-- Universidade Única: Licenciatura em Matemática (Segunda Graduação em Licenciatura em Matemática, data termino em 23/02/2025)
+- Universidade Única: Licenciatura em Matemática (Segunda Graduação em Licenciatura em Matemática - Completo)
 
 ## 💼 Experiências
 
 - Banco de Crédito Nacional S/A (início 15/05/1987 à 19/12/1995) funções: Escriturário, Analista de Informática, Tributos e Arrecadações, Contabilidade e Caixa Executivo.
-- Galdinos Assessoria em Computadores & Redes Instalações e Manutenções em Software/Hardware, inicio em 10 de Janeiro de 2020(até a data atual).
+- TEC GALDINOS Assessoria em Computadores & Redes Instalações e Manutenções em Software/Hardware, inicio em 10 de Janeiro de 2020(até a data atual).
 - Senac  de Salto -sp : Docente dos cursos de Técnico de Internet e Pacote Office - ano 2023 (Freelance).
 
 ## 📫 Contatos
