@@ -23,7 +23,7 @@ Sou um desenvolvedor autodidata apaixonado por tecnologia e inovação. Tenho co
 - Universidade Anhembi Morumbi: Gestão da Tecnologia da Informação (Tecnólogo Completo)
 - Universidade Anhanguera: Business intelligence, big data e analytics – Ciência de Dados (Pós-graduação - Completo)
 - Universidade Anhanguera: Docência na Educação Profissional e Ensino Técnico (Pós-graduação- Completo)
-- Universidade Única: Licenciatura em Matemática (Segunda Graduação em Licenciatura em Matemática - Completo)
+- Universidade Única: Licenciatura em Matemática (Segunda Graduação - Completo)
 
 ## 💼 Experiências
 
